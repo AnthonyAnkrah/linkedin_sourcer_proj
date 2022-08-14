@@ -1,0 +1,4 @@
+auth_dets = {
+    'user': 'YOUR_EMAIL_ADDRESS',
+    'pass': 'YOUR_SUPER_STRONG_PASSWORD'
+}
